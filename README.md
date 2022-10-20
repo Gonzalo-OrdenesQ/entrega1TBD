@@ -21,7 +21,7 @@
 <p> para descargar el proyecto se debe abrir un terminal o consola en la ubicacion que queramos tener el proyecto, y utilizar el compando: </p>
 <h3> clone https://github.com/Gonzalo-OrdenesQ/entrega1TBD.git </h3>
 <p> una vez se haya descargado completamente en la misma terminal debemos avanzar hacia la carpeta llamada front y utilizar el comando:</p>
-<h3> npm install<h3>
+<h3> npm install</h3>
 <p> si este comando falla se puede forzar con: </p>
 <h3> npm install --force </h3>
 <p> con esto hecho, solo queda utilizar el comando <h3> npm run dev </h3> para que se comience a ejecutar el frontend</p>
